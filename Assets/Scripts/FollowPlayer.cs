@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
+/// <summary>
+/// Handles the following mechanics using Navmesh
+/// </summary>
 public class FollowPlayer : MonoBehaviour
 {
     public Transform player;

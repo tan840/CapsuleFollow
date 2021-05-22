@@ -2,6 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// Powerups
+/// </summary>
 public class PickUp : MonoBehaviour
 {
     GameManager gameManager;
